@@ -1,6 +1,6 @@
 ### Introduction
 
-[node-simple-ws](https://github.com/casualwriter/node-simple-ws) is simple web server program for general data retrieval.
+[node-simple-ws](https://github.com/casualwriter/node-simple-ws) is simple web-service program for general data retrieval.
 
 * Single js file in about 60 lines code.
 * Self-contained, no depandence 
@@ -17,7 +17,7 @@ The program is portable.
 2. unzip it to a folder
 3. ``node.exe simple-ws`` to start the web service
 
-A sample web service will be started at port 9000, and the following web-service are available
+A sample web service will be started at port 9000, and the following links are available
 
 ~~~
  http://localhost:9000/Categories
