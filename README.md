@@ -8,6 +8,7 @@
 * Simple SQL definition for general purpose
 * Connect via OLE DB driver for Oracle, MSSQL, MS Access, MySql, ODBC, etc..  
 
+
 ### Installation & First Run
 
 The program is portable. 
@@ -25,11 +26,12 @@ A sample web service will be started at port 9000, and the following web-service
  http://localhost:9000/Order?customer=Essen&country=Germany   
 ~~~
 
+
 ### Coding for your web service
 
 The program is very simple in about 60 lines. You may read and modify the code.
 
-or just edit simple-ws.js for DB-CONNECTION and WEB-SERVICE-DEFINITION like
+or just edit ``simple-ws.js`` for DB-CONNECTION and WEB-SERVICE-DEFINITION like below
 
 ~~~
 //=== Connect to datbase via OLEDB, e.g. MS Access 2003 (sample.mdb)

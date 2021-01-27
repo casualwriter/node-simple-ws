@@ -4,7 +4,7 @@
 // Description: A simple web service program for gerneal purpose
 //
 // 2018/06: ck, initial version  
-// 2021/01: ck, release on https://github.com/casualwriter
+// 2021/01: ck, first release on https://github.com/casualwriter
 //=============================================================================================
 var http = require('http')
 var url = require('url')
@@ -65,7 +65,7 @@ http.createServer(function (request, response) {
 	 
 }).listen(port)
 
-console.log("(NIS Interface) listening on port "+port)
+console.log("(Simple Web Service) listening on port "+port)
 
 //======================== WS Definition ========================
 var wsd = { name:'Webservice Definition' }
