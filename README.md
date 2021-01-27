@@ -1,6 +1,6 @@
 ### Introduction
 
-[node-simple-ws](https://github.com/casualwriter/node-simple-ws) is simple web server program for node.js.
+[node-simple-ws](https://github.com/casualwriter/node-simple-ws) is simple web server program for general data retrieval.
 
 * Single js file in about 60 lines code.
 * Self-contained, no depandence 
