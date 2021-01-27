@@ -18,11 +18,12 @@ The program is portable.
 
 A sample web service will be started at port 9000, and the following web-service are available
 
+~~~
  http://localhost:9000/Categories
  http://localhost:9000/Customers
  http://localhost:9000/Product?key=hot
  http://localhost:9000/Order?customer=Essen&country=Germany   
-
+~~~
 
 ### Coding for your web service
 
