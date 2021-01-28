@@ -1,6 +1,4 @@
 //=============================================================================================
-// This progrm is released under GPLv3 (GNU通用公共許可證)	https://www.gnu.org/licenses/gpl-3.0.txt
-//
 // Description: A simple web service program for gerneal purpose
 //
 // 2018/06: ck, initial version  

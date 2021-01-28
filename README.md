@@ -60,7 +60,3 @@ wsd.Order	= `select a.* from Orders a, Customers b
 ~~~
 
 
-### Release
-
-This progrm is released under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt) (GNU通用公共許可證)
-
