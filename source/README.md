@@ -29,7 +29,7 @@ A sample web service will be started at port 9000, and the following links are a
 
 ### Coding for your web service
 
-The program is very simple in about 60 lines. You may read and modify the code.
+The program is very simple in about 60 lines. You may read and modify the code [simple-ws.js](simple-ws.js).
 
 or just edit ``simple-ws.js`` for DB-CONNECTION and WEB-SERVICE-DEFINITION like below
 
